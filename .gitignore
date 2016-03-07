@@ -4,3 +4,9 @@ Pods/
 TmpDisk.app
 TmpDisk*.dmg
 .DS_Store
+Podfile.lock
+TmpDisk.xcodeproj/project.pbxproj
+TmpDisk.xcodeproj/xcuserdata/pluwen.xcuserdatad/xcschemes/TmpDisk.xcscheme
+TmpDisk.xcodeproj/xcuserdata/pluwen.xcuserdatad/xcschemes/TmpDiskTests.xcscheme
+TmpDisk.xcodeproj/xcuserdata/pluwen.xcuserdatad/xcschemes/xcschememanagement.plist
+TmpDisk.xcworkspace/xcuserdata/pluwen.xcuserdatad/UserInterfaceState.xcuserstate
